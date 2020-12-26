@@ -27,9 +27,8 @@
     "url": "https://github.com/Rob--/memoryjs/issues"
   },
   "homepage": "https://github.com/Rob--/memoryjs#readme",
-  "dependencies": {
-    "concentrate": "^0.2.3",
-    "dissolve": "^0.3.3",
+  "dependencies": {},
+  "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0"
